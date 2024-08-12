@@ -1,16 +1,10 @@
-# waste_management_app
+# Waste AI
 
-A new Flutter project.
+An AI Waste Segregator built using Gemini APIs. Currently helps you segregate the waste into wet and dry waste.
 
-## Getting Started
+To make it work, 
+ - create a .env file in the root directory.
+ - Add GEMINI_API_KEY=<YOUR_API_KEY>
+ - Run the app in debug mode using `flutter run`
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
